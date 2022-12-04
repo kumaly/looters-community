@@ -10,6 +10,7 @@ The core loop of the game is integrated, but a lot of parts are not deployed on 
 - The leaderboard is not activated
 - Prices choices in the market place do not reflect the collection difficulty
 - Notification are still in construction
+- ...
 
 All of that will evolve rapidly over the next few weeks.
 
