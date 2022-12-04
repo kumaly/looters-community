@@ -3,6 +3,16 @@ Looters is still in development, but you can try the current pre alpha version t
 Right now, the game is deployed only on the Telos EVM Testnet.
 We suggest that you try it with your mobile device as we haven't focused on the desktop version yet.
 
+## State of the game
+
+The core loop of the game is integrated, but a lot of parts are not deployed on the public version yet :
+
+- The leaderboard is not activated
+- Prices choices in the market place do not reflect the collection difficulty
+- Notification are still in construction
+
+All of that will evolve rapidly over the next few weeks.
+
 ## Use the game on mobile
 
 - Install Metamask on your mobile
