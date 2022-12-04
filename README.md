@@ -152,3 +152,7 @@ For each season, one blockchain will have the possibility to sponsor the season 
 ## How to try the pre alpha of the game
 
 Follow this [HOWTO](./HOWTO.md).
+
+## Community
+
+Join the [Discord](https://discord.gg/ceXWjBQtZe).
