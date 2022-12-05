@@ -10,6 +10,7 @@ The core loop of the game is integrated, but a lot of parts are not deployed on 
 - The leaderboard is not activated
 - Prices choices in the market place do not reflect the collection difficulty
 - Notification are still in construction
+- When you enter a collection, give it 2s gather the datas from TLOS rpc, then it refresh every 1s
 - ...
 
 All of that will evolve rapidly over the next few weeks.
