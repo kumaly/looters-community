@@ -1,6 +1,6 @@
 Looters is still in development, but you can try the current pre alpha version to get a feeling of the game.
 
-Right now, the game is deployed only on the Telos EVM Testnet.
+Right now, the game is deployed only on the Telos EVM Mainnet.
 We suggest that you try it with your mobile device as we haven't focused on the desktop version yet.
 
 ## State of the game
@@ -18,7 +18,7 @@ All of that will evolve rapidly over the next few weeks.
 ## Use the game on mobile
 
 - Install Metamask on your mobile
-- Setup the Telos EVM Testnet
+- Setup the Telos EVM Mainnet
 - Use the faucet to get some coins
 - Open the browser inside Metamask
 - Go to : https://looters.kumaly.com

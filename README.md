@@ -10,6 +10,8 @@ Follow this [HOWTO](./HOWTO.md).
 
 Join the [Discord](https://discord.gg/ceXWjBQtZe).
 
+Ask us for free lootboxes to open !
+
 # Overview
 
 Looters is a EVM blockchain game where you buy and open lootboxes to collect loots with 5 levels of rarity.
