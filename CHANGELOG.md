@@ -33,9 +33,9 @@ We now use levels of difficulty as follow :
 
 Those values will be fine tuned each season to get the right steps between levels of difficulties.
 
-For 0.0.2, all collections are at setup at LV1 and only 4 collections are activated.
+For 0.0.2, all collections are setup at LV1 and only 4 collections are activated.
 
 ### Mainnet only
 
 0.0.1 was running on the testnet, but due to the nature of the game it made it obvious that having no resources limitation broke everything.
-We choose to migrate to mainnet only and gif players lootboxes instead so that they can try the game on our bankroll, without having to pay if they dont want to continue testing.
+We choose to migrate to mainnet only and gift players lootboxes instead so that they can try the game on our bankroll, without having to pay if they dont want to continue testing.
