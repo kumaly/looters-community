@@ -6,7 +6,7 @@ This is a work in progress, anything you read here might change in the future.
 
 This is a short clip showing the current state of the project in version 0.0.2 :)
 
-[https://www.youtube.com/watch?v=hAAXdMUUA1Q](Video on Youtube).
+[Video on Youtube](https://www.youtube.com/watch?v=hAAXdMUUA1Q).
 
 ## How to try the pre alpha of the game
 
