@@ -75,9 +75,9 @@ The game include multiple themed collections, each one with a different smart co
 Each collection has a drop table that show the odds to get a particular loot. This is stored inside the smart contract and we do not use an oracle.
 That information is also available to the player inside the app for transparency.
 
-Collections are organised in 4 levels of difficulty with the following characteritics :
+Collections are organised in 4 levels of difficulty with the following characteristics :
 
-- Easy : 15 to 35 loot variations and commonw are 2x more frequent than legendaries
+- Easy : 15 to 35 loot variations and commons are 2x more frequent than legendaries
 - Medium : 36 to 55 variations, 2x more expensive per lootbox and commonw are 4x more frequent than legendary
 - Hard : 56 to 71 variations, 4x more expensive and 8x the frequency
 - Insane : 72 variations, 8x more expensive and 16x the frequency
