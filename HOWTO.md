@@ -23,7 +23,7 @@ All of that will evolve rapidly over the next few weeks.
 - Open the browser inside Metamask
 - Go to : https://looters.kumaly.com
 - Go to the tab Play
-- Select a collection, we suggest you try "Boximon"
+- Select a collection, we suggest you try "Hoplite"
 - Click Manage Lootbox
 - Click Buy Lootbox
 - Validate the transaction, that should be 12 TLOS
