@@ -2,6 +2,14 @@
 
 This is a work in progress, anything you read here might change in the future.
 
+## How to try the pre alpha of the game
+
+Follow this [HOWTO](./HOWTO.md).
+
+## Community
+
+Join the [Discord](https://discord.gg/ceXWjBQtZe).
+
 # Overview
 
 Looters is a EVM blockchain game where you buy and open lootboxes to collect loots with 5 levels of rarity.
@@ -148,11 +156,3 @@ The Pot of a collection is also paid in the native coin of the chain.
 The Grand Prize is filled up with coins from many chains but will be paid in one currency only to make things simpler and cost effective.
 
 For each season, one blockchain will have the possibility to sponsor the season and be the one used for the Grand Prize payout on the most actives and engaged players of the game.
-
-## How to try the pre alpha of the game
-
-Follow this [HOWTO](./HOWTO.md).
-
-## Community
-
-Join the [Discord](https://discord.gg/ceXWjBQtZe).
