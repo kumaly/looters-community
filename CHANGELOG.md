@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## Version 0.0.3
+
+Integration of collection from LV1 to LV8 with gradual increase of price and difficulty.
+
 ## Version 0.0.2
 
 ### Marketplace
