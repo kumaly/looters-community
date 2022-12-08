@@ -1,5 +1,26 @@
 # CHANGELOG
 
+## Version 0.0.4
+
+Leaderboard has been activated, refresh rate is around every minute but you have to pull the page to refresh like in most mobile apps.
+
+Points are credited that way :
+
+- Each variation with 1+ loot in your inventory
+  - 1 point / common \* collection level
+  - 3 points / uncommon \* collection level
+  - 5 points / rare \* collection level
+  - 7 points / mythic \* collection level
+  - 10 points / legendary \* collection level
+- Each claim of a collection : points of all variations \* 1.5
+
+Play screen has been updated to, it now show your progression per collection and how much there is in the pot.
+Refresh rate is also around 1 min and you also have to pull to refresh.
+
+Inside a collection, the app connects directly to the RPC right now, so the refresh rate is 1s there.
+
+We also removed the coin logo on the collection vignettes has the app is now single chain.
+
 ## Version 0.0.3
 
 Integration of collection from LV1 to LV8 with gradual increase of price and difficulty.
