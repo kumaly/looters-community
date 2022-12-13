@@ -1,5 +1,39 @@
 # CHANGELOG
 
+## Version 0.0.5
+
+Reworked the way datas from the blockchain are updated, stored and called from the app.
+Leaderboard and collections listing datas should now refresh properly.
+
+Improved some pages for desktop display, still a lot to do there.
+
+Updated the estimated gas inside the app using following values:
+
+```
+export const GAS_LOOTBOX = {
+  REGISTER: 20_000,
+  BUY: 55_000,
+  BUY_AND_OPEN: 55_000,
+  BUY_AND_OPEN_EXTRA: 20_000,
+  CLAIM: 80_000,
+  CRAFT: 55_000,
+  CRAFT_AND_OPEN: 55_000,
+  GIFT: 55_000,
+  OFFER_CANCEL: 35_000,
+  OFFER_CREATE: 55_000,
+  OFFER_CREATE_EXTRA: 20_000,
+  OFFER_TAKE: 55_000,
+  OPEN: 55_000,
+  TRANSFER: 40_000,
+  TRANSFER_EXTRA: 3_000,
+};
+```
+
+EXTRA is what is multiplied by the quantity -1, so to open 3 lootboxes you pay 2x the extra and 1x the base.
+REGISTER is what is added if the receiver of the operation has never used the smart contract, for example if you transfer a loot to a friend to get him started or the first time you buy a lootbox.
+
+Notifications are disabled in that version until we redo that module with the new datas format.
+
 ## Version 0.0.4
 
 Leaderboard has been activated, refresh rate is around every minute but you have to pull the page to refresh like in most mobile apps.
